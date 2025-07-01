@@ -1,5 +1,5 @@
 
-# 🚢 Titanic Data Analysis – Task 5 (EDA)
+#  Titanic Data Analysis – Task 5 (EDA)
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🔍 Steps Performed
+###  Steps Performed
 1. **Data Loading & Understanding**  
    Used `.info()`, `.describe()`, `.isnull().sum()` to explore dataset structure and missing values.
 
@@ -34,7 +34,7 @@
 
 ---
 
-### ✅ Key Insights
+###  Key Insights
 - **Sex** and **Pclass** are strong indicators of survival.
 - **Age** and **Fare** distributions show skewness.
 - Missing values in `Age` and `Cabin` columns were identified.
